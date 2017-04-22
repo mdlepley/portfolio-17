@@ -1,0 +1,11 @@
+{
+  "name": "portfolio-17",
+  "version": "1.0.0",
+  "description": "A responsive portfolio for 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Lepley",
+  "license": "ISC"
+}
